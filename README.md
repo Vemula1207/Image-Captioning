@@ -1,4 +1,4 @@
-![image](https://github.com/Vemula1207/Image-Captioning/assets/42940619/867ad096-41d8-4a09-881d-f36c28f9293d)# Image Captioning
+# Image Captioning
 Input Image given to the CNN and the RNN analyzes it and generates a caption
 
 Object Detection output on a low-resolution Thermal Image
